@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Ojuju:wght@200..800&display=swap');
+.website {
+    font-family: "Ojuju", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    text-align: center;
+  }
+
+img {
+  border: 3px solid #000000;
+}
+
+.filter1 {
+  filter:hue-rotate(60deg);
+  filter:contrast(150%);
+}
+
+.filter2 {
+  filter:invert(30%);
+  filter:grayscale(70%);
+};
+
+.filter3 {
+  filter:blur(10px);
+  filter:saturate(20%);
+}

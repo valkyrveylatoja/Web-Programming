@@ -1,0 +1,15 @@
+div{
+    height:5000px;
+    background:linear-gradient(to bottom, #ffed9e 0%, #ff4f38 100%) ;
+    padding: 20px;
+    font-family: courier;
+    margin-right: 400;
+    margin-left:400;
+}
+
+img{
+    border-radius: 10%;
+    object-fit: cover;
+    border: 3px solid #000000;
+    text-align:center;
+}
